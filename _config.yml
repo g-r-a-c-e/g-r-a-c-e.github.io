@@ -1,0 +1,2 @@
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "grace" # the name of your site, e.g. ACME Corp.
